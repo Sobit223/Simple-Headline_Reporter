@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-image: url('testimg.jpg');
+
+}
+
+.input{
+    margin-top:20px;
+    margin-bottom: 10px;
+}
+
+.response{
+    margin-top: 25px;
+
+}
+
+.appended_Childs{
+    border: solid black 5px;
+    color: black;
+    margin-top: 5px;
+}
+
+.author{
+    color:red;
+}
+
+.heading{
+    color:green;
+}
